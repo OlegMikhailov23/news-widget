@@ -1,4 +1,4 @@
-# covid-dashboard
+# News widget
 
 Hello!
 
