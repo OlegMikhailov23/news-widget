@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "1",
+    "title": "Россиян предупредили об опасности использования WhatsApp",
+    "date": "18.03.21",
+    "time": "22:38",
+    "ref": "https://yandex.ru/turbo/360tv.ru/s/news/tehnologii/polzovatsja-whatsapp/?utm_source=yxnews&utm_medium=desktop",
+    "author": "360'"
+  },
+  {
+    "_id": "2",
+    "title": "Компания NVIDIA увеличила стоимость подписки на игровой сервис GeForce Now",
+    "date": "19.03.21",
+    "time": "11:58",
+    "ref": "https://newinform.com/278872-kompaniya-nvidia-uvelichila-stoimost-podpiski-na-geforce-now?utm_source=yxnews&utm_medium=desktop",
+    "author": "Newinform"
+  },
+  {
+    "_id": "3",
+    "title": "Гражданам РФ назвали скрытые настройки для ускорения работы Android-смартфонов",
+    "date": "18.03.21",
+    "time": "20:27",
+    "ref": "https://iz.ru/1138562/2021-03-17/eksperty-rasskazali-o-sposobe-uskorit-android-smartfon?utm_source=yxnews&utm_medium=desktop",
+    "author": "Izvestia"
+  },
+  {
+    "_id": "4",
+    "title": "Банк России повысил ключевую ставку до 4,5% годовых",
+    "date": "19.03.21",
+    "time": "13:32",
+    "ref": "https://tass.ru/ekonomika/10947087?utm_source=yxnews&utm_medium=desktop",
+    "author": "Tass"
+  }
+]

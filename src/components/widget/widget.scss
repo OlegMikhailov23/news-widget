@@ -1,0 +1,53 @@
+@import '../../sass/variables';
+
+.widget-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-self: center;
+  padding: 10px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 30%;
+  min-height: 50px;
+  background-color: #2d2d2d;
+  z-index: 1000;
+}
+
+.widget__title {
+  color: #CDCDCD;
+  font-size: 1.1rem;
+  letter-spacing: 0.2rem;
+  font-weight: 700;
+}
+
+.widget__button {
+  font-size: 0;
+  width: 25px;
+  height: 25px;
+  background-color: green;
+  border: none;
+  background-image: url("../assets/img/up-chevron.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 60% 60%;
+  border-radius: 50%;
+  outline: none;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+  &:hover {
+    background-color: aquamarine;
+  }
+}
+
+@media ($tablet-widths) {
+  .widget-wrapper {
+    width: 40%;
+  }
+}
+
+@media ($mobile-widths) {
+  .widget-wrapper {
+    width: 100%;
+  }
+}
